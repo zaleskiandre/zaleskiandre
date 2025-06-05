@@ -1,2 +1,4 @@
 ### Meu nome é André Zaleski Kusdra 📘
--Estou estudando o alura
+_Estou aprendendo mais sobre o alura_
+Gosto de estudar
+Gostode jogar futebol
